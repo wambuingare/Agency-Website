@@ -1,0 +1,421 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700;900&display=swap');
+.body{
+    font-family: 'Lato', sans-serif;
+}
+.section1{
+   background-color: aliceblue;
+}
+.image{
+margin-left: 6%;
+margin-bottom: 80%;
+}
+.logo{
+    margin-left: 7%;
+    margin-top: -10%;
+} 
+nav{
+    text-align: right;
+    align-items: right;
+    padding: -10%;
+    margin-top: -6%;
+    margin-right: 34%;
+}
+nav li{
+    display: inline;
+    padding: 10px;
+    list-style: none;
+    text-decoration: none;
+    color: grey;
+    font-weight: bold;
+    font-size: x-small;
+}
+.button button{
+    position: relative;
+    top: -20px;
+    background-color: blue;
+    border-radius: 15px;
+    height: 20px;
+    width: 8%;
+    font-size: 6px;
+    font-weight: bolder;
+    color: white;
+    border-color: blue;
+    margin-left: 85%;
+}
+.icon{
+    color: yellow;
+    /* margin-bottom: 10%; */
+    margin-left: 6%;
+    /* size: 30cm;   */
+    margin-bottom: -3%;
+}
+.icon2{
+    margin-left: -9%;
+    /* background-color: rgb(11, 225, 253);    */
+    padding-right: 60%; 
+    margin-right: 30%;
+    margin-top: -9%;
+}
+.man{
+    position: relative;
+    top: -24px;
+    margin-left: 33%;
+}
+.first{
+    padding: 50px;
+    background-color: white;
+}
+.logo h4{
+    color: aqua;
+}
+.title h2{
+    margin-top: -38%;
+    font-size: 200%;
+    color: rgb(21, 21, 53);
+}
+.title p{
+    font-weight: lighter;
+    font-size: xx-small;
+    color: blue;
+    margin-top: 14%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.button2 button{
+    position: relative;
+    top: 32px;
+    background-color: rgb(11, 225, 253);
+    border-radius: 15px;
+    height: 26px;
+    width: 12%;
+    font-size: 9px;
+    font-weight: bolder;
+    color: white;
+    border-color: rgb(11, 225, 253);
+}
+.button3 button{
+    position: relative;
+    top: 1px;
+    background-color: white;
+    border-radius: 15px;
+    height: 35px;
+    width: 10%;
+    font-size: 5px;
+    margin-left: 18%;
+    font-weight: bolder;
+    color: black;
+    border-color: white;
+}
+.portion{
+    display: flex;
+    margin: auto;
+}
+.sub1{
+    height: 20%;
+    width: 23%;
+    background-color: white;
+    position: relative;
+    margin-top: 10%;
+    margin-left: 6%;
+    margin-top: 5%;
+}
+.sub1 h3{
+    font-weight: bolder;
+    font-size: 120%;
+    margin-left: 4%;
+    margin-top: 40%;
+    color: rgb(70, 11, 11);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.sub1 p{
+    font-weight: lighter;
+  margin-top: -4%;
+  font-size: 80%;
+  color: rgb(94, 37, 37);
+  margin-left: 1%;
+  padding-left: 4%;
+}
+.section2{
+background-color:white
+}
+.S{
+    margin-left: 40%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;
+    color:rgb(11, 225, 253);
+}
+.image1{
+        margin-left: 6%;
+        margin-bottom: 100%;
+        margin-top: -12%;
+}
+.title2{
+    font-size: 130%;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(70, 11, 11);
+    margin-top: -8%;
+    margin-right: -15%;
+    margin-left: 1%;
+   padding-right: -10%;
+}
+ .page{
+    display: flexbox;
+} 
+.design{
+    height: 30%;
+    width: 50%;
+    border:none;
+    background-color: aliceblue;
+    font-size: 10px;
+    margin-left: -250px;
+    margin-bottom: 100%;
+    padding-left: 5%;
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
+.design h1{
+    margin-left: 12;
+    width: 30%;
+    height: 30%;
+}
+.design h2{
+    color:rgb(70, 11, 11); 
+    font-family: 'Times New Roman', Times, serif;
+}
+.design p{
+    color:rgb(70, 11, 11);  
+    font-family: 'Times New Roman', Times, serif; 
+}
+.design h5{
+    color:rgb(70, 11, 11);   
+}
+.dev{
+    height: 30%;
+    width: 50%;
+    border:none;
+    background-color: rgb(33, 97, 97);
+    position: relative;
+    margin-top: -142%;
+    padding-top: 1%; 
+    padding-bottom: 4%;
+    padding-left: 5%;
+    font-size: 10px;
+    margin-left: -42px;
+}
+.dev h2{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.dev p{
+    color:white;
+    font-family: 'Times New Roman', Times, serif; 
+}  
+.dev h5{
+    color: white; 
+}
+.market{
+    height: 30%;
+    width: 50%;
+    border:none;
+    background-color: aliceblue;
+    position: relative;
+    padding-top: 1%;
+    padding-bottom: 5%;
+    padding-left: 5%;
+    font-size: 10px;
+    margin-left: 150px;
+    margin-top: -160px;
+}
+.market h2{
+    color:rgb(70, 11, 11); 
+    font-family: 'Times New Roman', Times, serif;  
+}
+.market p{
+    color:rgb(70, 11, 11);  
+    font-family: 'Times New Roman', Times, serif;   
+}
+.market h5{
+    color:rgb(70, 11, 11);  
+}
+.icons{
+    display: flex;
+}
+.icon2 h1{
+   margin-left: 150%; 
+   color: grey;
+}
+.icon2 p{
+    margin-left: 240%;
+    position: relative;
+    top: -43%;
+    color: grey;
+    font-family:Arial, Helvetica, sans-serif;
+  
+}
+.icon3 h1{
+    margin-left: 240%;
+    color: grey;
+}
+.icon3 p{
+    margin-left: 295%;
+ position: relative;
+    top: -43%;
+    color: grey;
+}
+.icon4 h1{
+    margin-left: 420%;
+    color: rgb(21, 21, 53);
+}
+.icon4 p{
+    margin-left: 470%;
+    position: relative;
+    top: -43%;
+    color: rgb(21, 21, 53);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.name h2{
+    margin-left: 520%;
+    margin-bottom: -4%;
+    color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.section3{
+    background-color: aliceblue;
+}
+.man2{
+    margin-top: -90%;
+    margin-left: -90%;
+}
+ .we{
+    margin-left: 25%;
+    margin-top: -70%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;
+    color:rgb(11, 225, 253);
+}
+.image2{
+    position: relative;
+    margin-top: -40px;
+    margin-left: 22%;
+}
+.title3 h2{
+    margin-top: 5px;
+    margin-left: -30%;
+    color:rgb(70, 11, 11); 
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 230%;
+}
+.button4{
+margin-left: -32%;
+border-radius: 23%;
+color:rgb(70, 11, 11); 
+font-weight: lighter;
+
+}
+.project h5{
+    margin-left: 12%;
+   /* margin-bottom: -10%;  */
+   margin-top: -6%;
+   font-size: 120%;
+}
+.section4{
+    background-color: aliceblue;    
+}
+.sign h1{
+    color: black;
+    margin-left: -65%;
+    margin-top: 50%;
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 240%;
+}
+.sign p{
+    color: black;
+    margin-left: -37%;
+    /* margin-top: -2%; */
+}
+.button7 button{
+        position: relative;
+        top: -10;
+        background-color: rgb(0, 175, 131);
+        border-radius: 10px;
+        height: 40px;
+        width: 90%;
+        font-size: 5px;
+        font-weight: bolder;
+        color: rgb(255, 255, 255);
+        border-color: white;
+        margin-left: -50%;
+        margin-top: 5%;
+    }
+.sub{   position: relative;
+    top: -10;
+    /* background-color: blue; */
+    border-radius: 10px;
+    height: 40px;
+    width: 30%;
+    font-size: 5px;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+    /* border-color: white; */
+    /* margin-left: -50%; */
+    /* margin-top: 5%; */
+} 
+    .section5{
+        background-color: aliceblue;  
+    }
+    .operate{
+        margin-top: 40%;
+        margin-left: -90%;
+        font-size: small;
+    }
+    .image3{
+        margin-left: -73%;
+        margin-top: -22%;
+    }
+    .title4 h1{
+        color:rgb(70, 11, 11); 
+        margin-left: -10%;
+        margin-top: -2%;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .title4 h5{
+margin-top: 6%;
+margin-left: -10%;
+color: black;
+    }
+    .title4 h4{
+margin-left: -10%;
+margin-top: 10%;
+color: black;
+    }
+.button8{
+margin-top: -12%;
+margin-left: -8%;
+height: 30px;
+width: 30%;
+font-size: xx-small;
+color: antiquewhite;
+    }
+.button9{
+margin-top: 6%;
+margin-left: -8%;
+height: 80px;
+width: 40%;
+font-size: xx-small;
+color: antiquewhite;
+ }
+.send h5{
+    /* margin-left: -10%; */
+    background-color: blue;
+    position: relative;
+    border-radius: 100px;
+    height: 40px;
+    width: 20%;
+    font-size: small;
+    margin-left: -11%;
+    padding-top: 3%;
+    padding-left: 2%;
+} 
+.man5{
+    margin-top: -55%;
+    margin-left: 8%;
+}
